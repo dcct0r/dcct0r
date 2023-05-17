@@ -1,10 +1,10 @@
-<h1 align="center">𝕊𝕠𝕞𝕖𝕥𝕙𝕚𝕟𝕘 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖 🚬 </h1>
- 
-<p align="center"><img src="https://media.tenor.com/YPC2I-1ctzUAAAAd/soobkr-cute.gif" width="150"/></p>
+<h1 align="center">𝕊𝕠𝕞𝕖𝕥𝕙𝕚𝕟𝕘 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖 🚬 </h1>  
 
-![](https://komarev.com/ghpvc/?username=dcct0r&color=red)
+![](https://komarev.com/ghpvc/?username=dcct0r&color=red) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'am+Roman!;19+years+old.;Computer+science+student.;Hope+I'll+become+backend+developer!)](https://git.io/typing-svg)  
+<p align="center"><img src="https://media.tenor.com/YPC2I-1ctzUAAAAd/soobkr-cute.gif" width="200"/></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=300&width=600&height=100&lines=Hi+there,+I'am+Roman!;19+years+old.;Computer+science+student.;Hope+I'll+become+backend+developer!)](https://git.io/typing-svg)  
 
 ## 🏆 ℍ𝕖𝕣𝕖 𝕚𝕥'𝕤 𝕞𝕪 𝕤𝕥𝕣𝕖𝕒𝕜
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcct0r)](https://git.io/streak-stats)
