@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=600&height=100&color=F78627FF&lines=Hi+there,+I'am+Roman!+19+years+old.;Computer+science+student.;Love+to+learn+new+things!)](https://git.io/typing-svg) 
 ## 🔥 Skills
-- Java, Spring Boot, Hibernate, PostgreSQL
+- Java, Spring Boot, Hibernate, PostgreSQL, MySQL
 - C++, STL
 - Algorithms and Data Structures
 - Linux, Git, Docker
