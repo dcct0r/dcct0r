@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=600&height=100&color=F78627FF&lines=Hi+there,+I'am+Roman!;Software+engineering+student.;Glad+to+see+you+here!)](https://git.io/typing-svg) 
 ## 🔥 Skills
 - Java, Spring Boot, Hibernate, PostgreSQL  
-- C++, STL
 - Algorithms and Data Structures
 - Linux, Git, Docker
+- C++, STL
 - Russian, English (B2)
 
 ![](https://komarev.com/ghpvc/?username=dcct0r&color=red)   
