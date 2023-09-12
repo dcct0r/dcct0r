@@ -9,5 +9,3 @@
 - Russian, English (B2)
 
 ![](https://komarev.com/ghpvc/?username=dcct0r&color=red)   
-## 🏆 ℍ𝕖𝕣𝕖 𝕚𝕥'𝕤 𝕞𝕪 𝕤𝕥𝕣𝕖𝕒𝕜
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcct0r)](https://git.io/streak-stats)
