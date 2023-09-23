@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=600&height=100&color=F78627FF&lines=Hi+there!+I'am+Glad+to+see+you+here!;I+hope+you'll+appreciate+my+projects.;Enjoy!;)](https://git.io/typing-svg) 
 <h2> 🔥 Skills </h2>
-- Java, Spring Boot, Hibernate, PostgreSQL  
+
+- Java, Spring Boot, Hibernate, PostgreSQL
 - Algorithms and Data Structures
 - Linux, Git, Docker
 - C++, STL
