@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=800&height=100&color=F78627FF&lines=Hi,+I'm+Java+Developer!+Glad+to+see+you+here!;I+hope+you'll+evaluate+my+projects+and+like+them!;)](https://git.io/typing-svg) 
 
-<h2> 🔥 ${\textsf{\color{#F78627FF} Skills}}$ </h2>
+<h2>${🔥\textsf{\color{#F78627FF} Skills}}$</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
