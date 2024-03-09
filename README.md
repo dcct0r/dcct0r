@@ -1,6 +1,6 @@
 <h1 align="center"> 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=800&height=100&color=F78627FF&lines=Hi,+I'm+Java+Developer!+Glad+to+see+you+here!;I+hope+you'll+appreciate+my+projects+and+enjoy+it!;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=5000&pause=500&width=800&height=100&color=F78627FF&lines=Hi,+I'm+Java+Developer!+Glad+to+see+you+here!;I+hope+you'll+evaluate+my+projects+and+like+them!;)](https://git.io/typing-svg) 
 
 <h3> 🔥 Skills </h3>
 
